@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="17032" started-at="2021-01-17T15:52:55Z" finished-at="2021-01-17T15:53:12Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="17032" started-at="2021-01-17T15:52:55Z" finished-at="2021-01-17T15:53:12Z">
+      <class name="variousConcepts.LearnTestNG">
+        <test-method status="PASS" signature="readConfig()[pri:0, instance:variousConcepts.LearnTestNG@1d057a39]" name="readConfig" is-config="true" duration-ms="36" started-at="2021-01-17T15:52:55Z" finished-at="2021-01-17T15:52:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- readConfig -->
+        <test-method status="PASS" signature="init()[pri:0, instance:variousConcepts.LearnTestNG@1d057a39]" name="init" is-config="true" duration-ms="10160" started-at="2021-01-17T15:52:55Z" finished-at="2021-01-17T15:53:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="addCustomerTest()[pri:2, instance:variousConcepts.LearnTestNG@1d057a39]" name="addCustomerTest" duration-ms="6796" started-at="2021-01-17T15:53:06Z" finished-at="2021-01-17T15:53:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addCustomerTest -->
+      </class> <!-- variousConcepts.LearnTestNG -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
